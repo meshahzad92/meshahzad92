@@ -10,9 +10,9 @@
 
 ### Connect with me:
 <p align="left">
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/shahzad-waris-74ab8b2a8/)" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" /></a>
-<a href="https://github.com/YOUR_GITHUB_PROFILE" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/shahzad-waris-74ab8b2a8/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/meshahzad92" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" /></a>
+<a href="https://www.instagram.com/meshahzad92/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
 </p>
 
 ---
