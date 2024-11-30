@@ -25,7 +25,6 @@
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
 <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" />
 <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
-<img src="https://img.icons8.com/color/48/000000/scrapy.png" alt="Scrapy" />
 <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" />
 </p>
 
