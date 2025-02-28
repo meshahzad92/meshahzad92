@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Data%20Science-Driven-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Web%20Scraping-Automation-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Integration-Chatbots-purple?style=flat-square" />
 </p>
 
 ---
@@ -14,7 +15,8 @@
 - 🌱 Currently learning **Cloud Deployment** to scale data-driven projects.  
 - 💡 Exploring **AI Integration**, **Deep Learning**, and **Advanced ML techniques**.  
 - 🛠️ Passionate about building **data-driven applications** using **Python, SQL, and C++**.  
-- 🕵️‍♂️ Automating tasks with **Web Scraping** & **Data Engineering**.  
+- 🤖 Specializing in **Chatbot Development** & **AI-driven Automation**.  
+- 🕵️‍♂️ Web Scraping with **Selenium & BeautifulSoup**.  
 - 🤝 Open to **collaborations** on ML, AI, and automation projects.  
 - 📫 **Ask me anything** about **Data Science, AI, Automation, or Web Scraping!**  
 
@@ -46,6 +48,12 @@
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" />
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="Apache Spark" />
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Integration" />
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-chatbot-media-agency-flaticons-lineal-color-flat-icons.png" alt="Chatbot Development" />
 </p>
 
 ---
