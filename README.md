@@ -53,7 +53,6 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="Apache Spark" />
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Integration" />
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-chatbot-media-agency-flaticons-lineal-color-flat-icons.png" alt="Chatbot Development" />
 </p>
 
 ---
