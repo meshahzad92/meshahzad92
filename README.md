@@ -12,7 +12,7 @@
 
 ## 🚀 About Me  
 
-- 🌱 Currently learning **Cloud Deployment** to scale data-driven projects.  
+- 🌱 Currently exploring **Computer Vision** to handle CV projects.  
 - 💡 Exploring **AI Integration**, **Deep Learning**, and **Advanced ML techniques**.  
 - 🛠️ Passionate about building **data-driven applications** using **Python, SQL, and C++**.  
 - 🤖 Specializing in **Chatbot Development** & **AI-driven Automation**.  
