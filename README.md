@@ -1,24 +1,78 @@
 <h1 align="center">Hi 👋, I'm Shazad Waris</h1>
-<h3 align="center">🚀 Data Scientist | Web Scraper | AI Enthusiast</h3>
+<h3 align="center">🚀 AI Engineer | FastAPI Expert | Automation Architect</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Science-Driven-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-Automation-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Integration-Chatbots-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation-Engineer-purple?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/Deployment-Docker%20%7C%20Railway%20%7C%20Vercel-blue?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-Selenium%20%7C%20BeautifulSoup-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-orange?style=flat-square&logo=tensorflow" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 👨‍💻 About Me  
 
-- 🌱 Currently exploring **Computer Vision** to handle CV projects.  
-- 💡 Exploring **AI Integration**, **Deep Learning**, and **Advanced ML techniques**.  
-- 🛠️ Passionate about building **data-driven applications** using **Python, SQL, and C++**.  
-- 🤖 Specializing in **Chatbot Development** & **AI-driven Automation**.  
-- 🕵️‍♂️ Web Scraping with **Selenium & BeautifulSoup**.  
-- 🤝 Open to **collaborations** on ML, AI, and automation projects.  
-- 📫 **Ask me anything** about **Data Science, AI, Automation, or Web Scraping!**  
+- ⚡ Passionate **AI Engineer** building intelligent and scalable backend systems.  
+- 🧠 Expert in **FastAPI**, **Machine Learning**, **Automation**, and **Deployment**.  
+- ☁️ Skilled in deploying production-grade applications using **Docker**, **Railway**, **Vercel**, and **Render**.  
+- 🤖 Experienced in developing **Chatbots**, **Voice AI Systems**, and **Custom AI Integrations**.  
+- 🕵️‍♂️ Built end-to-end **Web Scraping** and **Data Automation** pipelines.  
+- 🧩 Love building **modular APIs**, **real-time systems**, and **data-driven apps**.  
+- 🤝 Open for **collaborations** on AI, automation, and backend engineering projects.  
+- 📫 Reach me for anything related to **FastAPI, AI systems, or smart automation**.  
+
+---
+
+## ⚙️ Tech Stack  
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="SQLite" />
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" />
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" />
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meshahzad92&show_icons=true&theme=radical" alt="Shazad's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meshahzad92&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meshahzad92&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🧠 Expertise  
+
+✅ **FastAPI** – Building scalable APIs, background tasks, and async architectures  
+✅ **AI Integration** – GPT-powered assistants, LLM-based systems, automation bots  
+✅ **Deployment** – Dockerized microservices, CI/CD, Railway/Vercel/AWS pipelines  
+✅ **Data Science & ML** – Model training, preprocessing, and evaluation pipelines  
+✅ **Web Scraping** – Automated data extraction with Selenium, BeautifulSoup & Playwright  
+✅ **Automation** – Task schedulers, backend orchestration, workflow systems  
+
+---
+
+## 🎯 2025 Goals  
+
+- 🚀 Scale **AI-powered APIs** with production-ready architecture.  
+- 🧩 Contribute to open-source **FastAPI** and **AI tools**.  
+- ☁️ Master **MLOps & Cloud Deployment** for real-world scalability.  
+- 🤖 Launch my own **AI Automation Platform**.  
+- 📚 Share knowledge through blogs, tutorials, and open repositories.  
 
 ---
 
@@ -38,45 +92,5 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" />
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
-  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="Apache Spark" />
-  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Integration" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meshahzad92&show_icons=true&theme=radical" alt="Shazad's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meshahzad92&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
----
-
-## 🎯 My Goals for 2025  
-
-- 💻 Build and contribute to **open-source AI projects**.  
-- 🎓 Publish research papers on **Machine Learning and Data Science**.  
-- 🚀 Master **Cloud AI deployment** for scalable solutions.  
-- 🤝 Collaborate with the **Data Science and AI community**.  
-
----
-
-## 🚀 Let's Connect & Collaborate!  
-If you're into **Data Science, AI, or Web Scraping**, let’s connect and build something awesome together! 🌟  
-
-✨ **Happy Coding!** ✨  
+<h3 align="center">✨ Let's Build the Future of AI Together ✨</h3>
+<p align="center">💡 “Code. Automate. Deploy. Repeat.”</p>
