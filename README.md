@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shazad Waris</h1>
-<h3 align="center">🚀 AI Engineer | FastAPI Expert | Automation Architect</h3>
+<h3 align="center"> AI Engineer | Automation Expert</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=flat-square&logo=fastapi&logoColor=white" />
